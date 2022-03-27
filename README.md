@@ -1,17 +1,17 @@
-### 👋 Hi, I’m @bmcnamee96
+# 👋 Hi, I’m @bmcnamee96
 
 ## 👀 I’m interested in:
 - Data Analysis
 - Machine Learning
 
-# 🌱 I’m currently learning Data Analysis in the Columbia Data AnalyticsBootcamp.
+### 🌱 I’m currently learning Data Analysis in the Columbia Data AnalyticsBootcamp.
     - Excel
     - VBA
     - Python
     - Jupyter Notebook
 
 
-# 💞️ I’m looking for mentorship and teaching.  I am easy to work with and excited to learn.
+###  💞️ I’m looking for mentorship and teaching.  I am easy to work with and excited to learn.
 
 
 ## 📫 How to reach me:
