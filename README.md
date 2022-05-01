@@ -15,7 +15,7 @@
 
 
 ## 📫 How to reach me:
-- bmcnamee2015@yahoo.com
+- bmac965@gmail.com
 
 <!---
 bmcnamee96/bmcnamee96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
