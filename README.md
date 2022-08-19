@@ -4,11 +4,13 @@
 - Data Analysis
 - Machine Learning
 
-### 🌱 I’m currently learning Data Analysis in the Columbia Data AnalyticsBootcamp.
+### 🌱 I am a recent graduate of the Data Analysis course at Columbia Data Analytics Bootcamp.
     - Excel
     - VBA
     - Python
     - Jupyter Notebook
+    - Tableau
+    - SQL
 
 
 ###  💞️ I’m looking for mentorship and teaching.  I am easy to work with and excited to learn.
